@@ -7,3 +7,4 @@ This repository contains a Python script that helps you extract your api_id and 
 To use Telegram's API in a Python project, you'll need an api_id and api_hash, which you can obtain by registering your application on the Telegram website. This script guides you through the process of obtaining those credentials
 
 # How to use the code
+Look inside the test.py file
