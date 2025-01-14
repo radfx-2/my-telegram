@@ -8,3 +8,6 @@ To use Telegram's API in a Python project, you'll need an api_id and api_hash, w
 
 # How to use the code
 Look inside the test.py file
+✨ [Telegram Account](https://t.me/r_afx) ✨
+✨ [Telegram Channls](https://t.me/radfx2) ✨
+
